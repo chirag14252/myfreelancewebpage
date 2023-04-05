@@ -11,13 +11,13 @@ body{
 margin-top: 0px; 
 margin-bottom: 0px;   
 display: inline;
-margin-left: 550px;
-color: #66BFBF;
+margin-left: 40%;
+color: #010101;
 font-family:'Montserrat', sans-serif;
 font-size: 2rem;
 }
 .h1-style{
-    margin-left:400px;
+    margin-left:30%;
     display:block;
     margin-top: 0px;
     margin-bottom:20px;
@@ -40,7 +40,7 @@ a{
     color:#11999E; 
 }
 .imge{
-    margin-left: 35%;
+    margin-left: 37%;
     display : block;  
     width:25%;
 }
